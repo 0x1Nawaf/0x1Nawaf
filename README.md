@@ -3,10 +3,9 @@
 
 <p align="center">
   <a href="https://github.com/0x1Nawaf">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Morning Coffee ☕;Software+Engineer;Always+Learning+New+Things" alt="Typing SVG" />
+    <img src="assets/readme-typing.svg" alt="Typing GIF" />
   </a>
 </p>
-
 ---
 
 ## 🧑‍💻 About Me
