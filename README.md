@@ -6,7 +6,7 @@
     <img src="assets/readme-typing.svg" alt="Typing GIF" />
   </a>
 </p>
----
+
 
 ## 🧑‍💻 About Me
 
